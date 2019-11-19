@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ZadanieRekrutacyjne {
+namespace ZadanieRekrutacyjneRS {
     
     
     public partial class HomePage {
